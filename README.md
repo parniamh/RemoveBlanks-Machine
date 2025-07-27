@@ -1,4 +1,4 @@
-##🧹 Blanks Remover — My Form-Based String Processor in C#  
+#🧹 Blanks Remover — My Form-Based String Processor in C#  
 A beginner-friendly Windows Forms application created to clean up text input.  
 Built during my journey into programming and interactive software design ✨  
 
