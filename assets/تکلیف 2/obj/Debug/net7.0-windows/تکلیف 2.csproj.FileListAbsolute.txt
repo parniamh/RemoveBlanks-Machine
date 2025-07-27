@@ -1,0 +1,18 @@
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\bin\Debug\net7.0-windows\تکلیف 2.exe
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\bin\Debug\net7.0-windows\تکلیف 2.deps.json
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\bin\Debug\net7.0-windows\تکلیف 2.runtimeconfig.json
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\bin\Debug\net7.0-windows\تکلیف 2.dll
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\bin\Debug\net7.0-windows\تکلیف 2.pdb
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف 2.csproj.AssemblyReference.cache
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف_2.Form1.resources
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف 2.csproj.GenerateResource.cache
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف 2.AssemblyInfoInputs.cache
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف 2.AssemblyInfo.cs
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف 2.csproj.CoreCompileInputs.cache
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف 2.dll
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\refint\تکلیف 2.dll
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف 2.pdb
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف 2.genruntimeconfig.cache
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\ref\تکلیف 2.dll
+C:\Users\paryha\source\repos\تکلیف 2\تکلیف 2\obj\Debug\net7.0-windows\تکلیف_2.Properties.Resources.resources
